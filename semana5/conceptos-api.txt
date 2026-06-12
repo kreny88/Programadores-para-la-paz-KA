@@ -1,0 +1,6 @@
+Qué hace esta ruta. Esta ruta confirma cuando
+se guardan los datos de un reporte.
+Para qué podría servir en una aplicación 
+comunitaria.
+Podría servir en una comunidad para hacer
+y guardar reportes.
