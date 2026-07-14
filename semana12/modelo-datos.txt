@@ -1,0 +1,12 @@
+Causa: para registrar la causa
+id
+titulo
+descripcion
+fecha
+
+Apoyo: para relacionar quien presta el apoyo 
+a la causa.
+id
+causa_id
+nombre
+fecha
